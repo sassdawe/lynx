@@ -1182,6 +1182,10 @@ video {
   background-color: #4a154b;
 }
 
+.link-sessionize {
+  background-color: #1ab394;
+}
+
 .link-snapchat {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));

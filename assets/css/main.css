@@ -95,6 +95,9 @@
 .link-slack {
   background-color: #4a154b;
 }
+.link-sessionize {
+  background-color: #1ab394;
+}
 .link-snapchat {
   @apply text-neutral-900;
   background-color: #fffc00;
