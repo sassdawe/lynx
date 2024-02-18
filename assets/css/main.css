@@ -24,6 +24,13 @@
 .link-codepen {
   background-color: #1e1f26;
 }
+.link-credly {
+  background-color: #FF6B00;
+}
+.link-credly.icon svg {
+  height: 0.5em;
+  width: 0.5em;
+}
 .link-dev {
   background-color: #0a0a0a;
 }
@@ -82,6 +89,9 @@
 }
 .link-patreon {
   background-color: #ff434d;
+}
+.poshgallery {
+  background-color: #222222;
 }
 .link-pinterest {
   background-color: #e60023;

@@ -1087,6 +1087,10 @@ video {
   background-color: #1e1f26;
 }
 
+.link-credly {
+  background-color: #FF6B00;
+}
+
 .link-dev {
   background-color: #0a0a0a;
 }
@@ -1168,6 +1172,10 @@ video {
 
 .link-pinterest {
   background-color: #e60023;
+}
+
+.link-poshgallery {
+  background-color: #1459a1;
 }
 
 .link-reddit {

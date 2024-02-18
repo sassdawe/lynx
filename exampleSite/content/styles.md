@@ -12,6 +12,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link amazon >}}
 {{< link apple >}}
 {{< link codepen >}}
+{{< link credly >}}
 {{< link dev >}}
 {{< link discord >}}
 {{< link dribbble >}}
@@ -30,6 +31,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link medium >}}
 {{< link microsoft >}}
 {{< link patreon >}}
+{{< link poshgallery >}}
 {{< link pinterest >}}
 {{< link reddit >}}
 {{< link slack >}}
