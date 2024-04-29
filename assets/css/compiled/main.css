@@ -1087,6 +1087,10 @@ video {
   background-color: #1e1f26;
 }
 
+.link-credly {
+  background-color: #FF6B00;
+}
+
 .link-dev {
   background-color: #0a0a0a;
 }
@@ -1170,6 +1174,10 @@ video {
   background-color: #e60023;
 }
 
+.link-poshgallery {
+  background-color: #1459a1;
+}
+
 .link-reddit {
   background-color: #ff4500;
 }
@@ -1180,6 +1188,10 @@ video {
 
 .link-slack {
   background-color: #4a154b;
+}
+
+.link-sessionize {
+  background-color: #1ab394;
 }
 
 .link-snapchat {

@@ -3,6 +3,7 @@ link:
   apple: Apple
   codepen: CodePen
   dev: DEV
+  credly: Credly
   discord: Discord
   dribbble: Dribbble
   email: Email
@@ -16,7 +17,7 @@ link:
   keybase: Keybase
   kickstarter: Kickstarter
   lastfm: Last.fm
-  link: Website
+  link: Blog
   linkedin: LinkedIn
   mastodon: Mastodon
   medium: Medium
@@ -24,11 +25,13 @@ link:
   orcid: ORCiD
   patreon: Patreon
   pinterest: Pinterest
+  poshgallery: PowerShell Gallery
   reddit: Reddit
   researchgate: ResearchGate
   slack: Slack
   snapchat: Snapchat
   soundcloud: Soundcloud
+  sessionize: Sessionize
   spotify: Spotify
   steam: Steam
   telegram: Telegram
