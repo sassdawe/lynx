@@ -3,4 +3,11 @@
   <span class="relative inline-block align-text-bottom icon">
     {{ $icon.Content | safeHTML }}
   </span>
+{{ else }}
+  {{ $icon = resources.Get (print "icons/" . ".png") }}
+  {{ if $icon }}
+  <span class="relative inline-block align-text-bottom icon">
+    <img src="{{ $icon.RelPermalink }}" alt="{{ . | title }}" class="h-4 w-4" style="height: 24px;">
+  </span>
+  {{ end  }}
 {{ end }}

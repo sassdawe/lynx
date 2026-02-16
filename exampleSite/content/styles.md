@@ -30,6 +30,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link mastodon >}}
 {{< link medium >}}
 {{< link microsoft >}}
+{{< link microsoftmvp >}}
 {{< link patreon >}}
 {{< link poshgallery >}}
 {{< link pinterest >}}
